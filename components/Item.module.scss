@@ -1,0 +1,13 @@
+.item {
+    width: fit-content;
+    text-align: center;
+    cursor: pointer;
+
+    h2 {
+        margin-top: 0rem;
+    }
+
+    > img {
+        max-width: 500px;
+    }
+}
